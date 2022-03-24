@@ -1,2 +1,3 @@
 # 1st_git_seminar
-27기 1차 깃, 깃허브 세미나 과제 제출을 위한 레포지토리
+SOLUX 27기 1차 세미나 과제 제출을 위한 레포지토리
+[수료증 제작 링크]:https://www.miricanvas.com/v/1arq3g
